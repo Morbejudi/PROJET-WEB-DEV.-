@@ -1,0 +1,59 @@
+header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 2rem;
+    padding-right: 0px;
+    padding-bottom: 2rem;
+    padding-left: 0px;
+    width: auto;
+    height: 50px;
+    background-color: rgba(0, 0, 0, 0.764);
+    font-family:Dosis, regular;
+    font-size: 20px;
+    font-weight: 400;
+}
+#Accueil{
+    color: #bf1e2e;
+    text-decoration: none;
+    margin: 1rem;
+}
+
+#Apropos, #Projets, #Contact{
+        color: #00aeef;
+        text-decoration: none;
+        margin: 1rem;
+}
+
+body{
+    font-family: Montserrat, regular;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 26px;
+    font-weight: normal;
+    font-style: normal;
+    background-color: white;
+    margin: 0;
+    overflow-x: hidden;
+    background-image:url(https://images.unsplash.com/photo-1679233564584-b0c74cd23852?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+    background-size: auto auto;
+
+}
+
+
+.landingpage{
+    display: flex;
+    width: 450px;
+    height: 150px;
+    margin-top: 220px;
+    font-size: 1.5em;
+    font-weight: 300;
+    line-height: 1.2;
+    color: #ffff;
+    font-family: Montserrat;
+    position: fixed;
+    background-color: rgba(0, 0, 0, 0.611);
+}
+
+
+

@@ -1,0 +1,262 @@
+header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 2rem;
+    padding-right: 0px;
+    padding-bottom: 2rem;
+    padding-left: 0px;
+    width: auto;
+    height: 50px;
+    background-color: rgb(0, 0, 0);
+    font-family:Dosis, regular;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+#Accueil{
+    color: #bf1e2e;
+    text-decoration: none;
+    margin: 1rem;
+}
+
+#Apropos, #Projets, #Contact{
+        color: #00aeef;
+        text-decoration: none;
+        margin: 1rem; 
+}
+
+#project{
+    color: #00aeef;
+    text-decoration: none;
+    margin: 1rem;
+    font-size: 18px;
+}
+
+body{
+    font-family: Montserrat, regular;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 26px;
+    font-weight: normal;
+    font-style: normal;
+    background-color: white;
+    margin: 0;
+    overflow-x: hidden;
+}
+
+.leadsection{
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    flex-wrap: wrap;
+    margin-top: 4rem;
+    margin-left: 10rem;
+    margin-right:10rem;
+    margin-bottom:1rem;
+    width: auto;
+}
+
+#headerp{
+    color: #00aeef;
+    font-size: 2.29rem;
+    font-family: Montserrat, regular;
+    font-weight: 300;
+    letter-spacing: -0.3px;
+    padding-top: 20px;
+}
+
+.poursection1{
+    display: flex;
+    width: auto;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+    padding: 1.375em 1.25em 0;
+    font-size: 1.5em;
+    font-weight: 300;
+    line-height: 1.5;
+    margin: 3.75rem auto 2.5rem;
+    color: #ffffff;
+    font-family: Montserrat, regular;
+    max-width: 1250px;
+    padding: 0 20px;
+    position:relative;
+    flex-wrap:inherit;
+}
+
+.poursection1 img{
+    width: 150%;
+    height: 150%;
+    border-radius: 10px;
+}
+
+.poursection2 img{
+    width: 150%;
+    height: 150%;
+    border-radius: 10px;
+}
+
+.pour1{
+    display: flex;
+    flex-direction: column;
+    padding: 2em 2em 2em;
+    justify-content: space-between;
+    width: 10%;
+    height: 10%;
+}
+
+.pour2{
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    padding: 2em 2em 2em;
+    justify-content: space-between;
+    text-align: center;
+}
+
+.pour3{
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    padding: 2em 2em 2em;
+    justify-content: space-between;
+    text-align: center;
+}
+
+.pour4{
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    padding: 2em 2em 2em;
+    justify-content: space-between;
+    text-align: center;
+}
+
+.poursection2{
+    display: flex;
+    width: auto;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+    padding: 1.375em 1.25em 0;
+    font-size: 1.5em;
+    font-weight: 300;
+    line-height: 1.5;
+    margin: 3.75rem auto 2.5rem;
+    color: #ffffff;
+    font-family: Montserrat, regular;
+    max-width: 1250px;
+    padding: 0 20px;
+    position:relative;
+    flex-wrap:inherit;
+}
+
+footer{
+    font-family: Montserrat, regular;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 26px;
+    font-weight: normal;
+    font-style: normal;
+    background-color: rgb(0, 0, 0);
+    margin: 0;
+    overflow-x: hidden;
+    width: auto;
+    height: 450px;
+}
+
+.footersection1{
+    display: flex;
+    width: auto;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    padding: 1em 0.95em 0;
+    font-size: 1em;
+    font-weight: 300;
+    line-height: 1.5;
+    margin: 1.75rem auto 1rem;
+    color: #ffffff;
+    font-family: Montserrat, regular;
+    max-width: 1250px;
+    padding: 0 20px;
+    position:relative;
+    flex-wrap:inherit;
+}
+
+
+
+.footer1{
+    display: flex;
+    flex-direction: column;
+    padding: 0.15em 0.15em 0.15em;
+    justify-content: space-between;
+    text-align: center;
+    width: 250px;
+    height: auto;
+}
+
+.footer2{
+    display: flex;
+    flex-direction: column;
+    padding: 0.15em 0.15em 0.15em;
+    justify-content: space-between;
+    text-align: center;
+    width: 250px;
+    height: auto;
+
+}
+
+.footer3{
+    display: flex;
+    flex-direction: column;
+    padding: 0.15em 0.15em 0.15em;
+    justify-content: space-between;
+    text-align: center;
+    width: 250px;
+    height: auto;
+}
+
+
+#elfooter{
+    color: #00aeef;
+    font-size: 1.29rem;
+    font-family: Montserrat, regular;
+    font-weight: 300;
+    letter-spacing: -0.3px;
+}
+
+#Accueil1, #Apropos1, #Projets1, #Contact1{
+    color: #ffffff;
+    text-decoration: none;
+    margin: 0.5rem; 
+}
+
+.footersection2{
+    display: flex;
+    width: auto;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+    padding: 1em 0.95em 0;
+    font-size: 1em;
+    font-weight: 300;
+    line-height: 1.5;
+    margin: 2.75rem auto 1.5rem;
+    color: #ffffff;
+    font-family: Montserrat, regular;
+    max-width: 1250px;
+    padding: 0 20px;
+    position:relative;
+    flex-wrap:inherit;
+    flex-direction: column;
+}
+
+hr {
+    height: 0.5px;
+    width:1250px;
+    border-width:0;
+    background-color:#ffffff;
+  }
+
